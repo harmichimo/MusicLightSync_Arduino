@@ -8,3 +8,5 @@ to those who have a) some experience with circuit boards and b) some C++ coding 
 If you have any questions while working on your own LED project, feel free to reach out to me.
 
 Here is the project in action: https://youtu.be/y5W4rdrjQ8U
+
+Here is the layout for the circuit board: https://www.dropbox.com/s/c830xk96mcma4df/arduino_light_sync.jpg?dl=0
